@@ -42,7 +42,37 @@ API 주소 : https://data.seoul.go.kr/
 <br>
 
 ## ⌨ What I Made ⌨
-<h3>1. </h3>
-<h4>아파트 동별 매매 (전체)</h4>
-<img src="">
+<h3>1. 서울시 아파트 데이터</h3>
+<h4>아파트 동별 매매 (구별 아파트 목록 - 전체)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230267669-1c7ad63a-28a3-4ff4-b1b6-10fdbda0046a.png">
+<br><br>
+<h4>아파트 동별 매매 (구별 아파트 목록 - 검색 기능 구현)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230268492-676e923e-6f2a-44d8-9755-242979805d57.png">
+<br><br>
+<h4>아파트 동별 매매 (카테고리별 아파트 분포 그래프)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230267678-1d3c17af-2c1d-4660-b2ee-0d86028ac34d.png">
+<br><br>
+
+<br>
+
+<h3>2. 서울시 아파트 동별 매매가 데이터</h3>
+<h4>아파트 동별 매매가 (전체 - 1)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230269089-71ae5aea-09b3-494c-8300-26bc7767f737.png">
+<br><br>
+<h4>아파트 동별 매매가 (전체 - 2)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230269091-2c99f44e-d5d4-4d3f-a013-aa8dee51a7fe.png">
+<br><br>
+<h4>아파트 동별 매매가 (전체 - 3)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230269102-b60c2339-5f79-4e1d-b15f-a87e9660088e.png">
+<br><br>
+<h4>아파트 동별 매매가 (검색 기능 구현)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230269335-1a17ca1a-3a1c-466f-a282-70d6cd8b4f1b.png">
+<br><br>
+<h4>아파트 동별 매매가 (검색 유효성 검사 구현 - 1. 최소 두 자 미입력시)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230273191-cd6ccc6c-577a-421d-a241-ded8ec438406.png">
+<br><br>
+<h4>아파트 동별 매매가 (검색 유효성 검사 구현 - 2. 존재하지 않는 구 입력시)</h4>
+<h4>아파트 동별 매매가 (검색 유효성 검사 구현 - 3. 중복되는 결과값 나오도록 입력시)</h4>
+<h5>(ex. 포구 -> 마포구, 영등포구)</h5>
+<img src="https://user-images.githubusercontent.com/116334811/230273195-470b9960-360d-414c-87bb-650aa9872ad9.png">
 <br><br>
